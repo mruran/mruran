@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @mruran
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Delong
 
-<!---
-mruran/mruran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> This node observes. It does not explain.  
+> https://matters.town/@mruran
+
+> status: 🧯 corrupted  
+> signal: ▒▒░▒░▒▒▒▒▒▒▒▒▒▒▒▒  
+> mode: ghosting in debug mode
